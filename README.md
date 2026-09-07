@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+**Name:** Gunisetti Shiva Pavan Kumar<br><br>**Professional Summary:**<br>Artificial Intelligence graduate with a strong interest in Data Science, Data Analytics, Machine Learning, and Deep Learning. Skilled in developing data-driven solutions using Python, SQL, machine learning, and visualization tools. Seeking opportunities to apply technical knowledge to real-world projects, continuously develop industry-relevant skills, and contribute to organizational growth.<br><br>### Education<br><br>**B.Tech – Artificial Intelligence**<br>Annamacharya Institute of Technology and Sciences, Rajampet<br>2023–2026 | **CGPA: 8.50/10**<br><br>**Diploma – Mechanical Engineering**<br>E.S.C. Government Polytechnic, Nandyal<br>2020–2023 | **CGPA: 7.40/10**<br><br>### Technical Skills<br><br>**Programming & Query Languages:** Python, SQL<br><br>**Data Analysis:** Pandas, NumPy, Scikit-learn, Microsoft Excel<br><br>**Machine Learning:** Regression, Classification, Clustering<br><br>**Deep Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), LSTM, TensorFlow, Keras<br><br>**Generative AI:** LangChain, Retrieval-Augmented Generation (RAG), Transformers<br><br>**Data Visualization:** Power BI, Matplotlib, Seaborn<br><br>**Databases:** MySQL, PostgreSQL<br><br><br>
 
-<!--
-**shivapavan106/shivapavan106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gshivapavankumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivapavankumar7@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shivapavan106&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shivapavan106&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivapavan106&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=shivapavan106&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
